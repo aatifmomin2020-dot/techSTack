@@ -1,0 +1,31 @@
+id,name,description,difficulty,learning_value,target_role_category
+1,AI-Powered Task Management System,"Full-stack task manager with automated AI priority suggestions and real-time collaboration.",Intermediate,High,Full Stack Developer
+2,E-Commerce Microservices Platform,"Distributed e-commerce backend with product catalog, cart management, and payment gateway integration.",Advanced,Very High,Backend Developer
+3,Developer Analytics Dashboard,"Real-time dashboard visualizing code metrics, commit velocity, and repository health.",Intermediate,High,Frontend Developer
+4,ML Prediction API & Model Server,"Production REST API deploying scikit-learn and PyTorch models with model monitoring.",Intermediate,High,Machine Learning Engineer
+5,DevOps Infrastructure Monitoring Platform,"Prometheus and Grafana automated monitoring setup with Docker and Kubernetes infrastructure.",Advanced,Very High,DevOps Engineer
+6,RAG-Based LLM Document Search Engine,"Retrieval-Augmented Generation system using LangChain, vector database, and FastAPI.",Advanced,Very High,AI Engineer
+7,Real-Time Chat & Collaboration App,"Websocket-powered messaging platform with user channels and file attachments.",Intermediate,High,Full Stack Developer
+8,Financial Portfolio Data Analyzer,"Data analysis tool parsing historical stock data, performing Monte Carlo simulations, and generating charts.",Intermediate,High,Data Scientist
+9,Cloud Automated Deployment Pipeline,"Terraform IaC script suite deploying auto-scaling web apps on AWS with GitHub Actions CI/CD.",Advanced,Very High,Cloud Engineer
+10,Interactive Resume & Portfolio Generator,"SaaS web app allowing developers to build custom responsive portfolio websites with live previews.",Beginner,Medium,Frontend Developer
+11,High-Throughput Log Aggregator,"Go and Redis based log collector capable of processing millions of events per minute.",Advanced,Very High,Backend Developer
+12,Automated Code Quality Auditor,"Python CLI tool scanning Python and JS code repositories for anti-patterns and coverage metrics.",Intermediate,High,Python Developer
+13,Customer Churn Prediction Engine,"Machine learning classification model predicting user retention with feature engineering pipeline.",Intermediate,High,Data Scientist
+14,Multi-Tenant SaaS Authentication Service,"OAuth2 and JWT authentication server supporting role-based access control (RBAC).",Intermediate,High,Backend Developer
+15,Containerized Microservices Benchmark,"Performance testing suite measuring throughput across Dockerized FastAPI, Express, and Spring Boot apps.",Advanced,Very High,DevOps Engineer
+16,Full-Stack Blog & Content Engine,"Next.js static site generator powered by a GraphQL API and PostgreSQL backend.",Beginner,Medium,Full Stack Developer
+17,Kubernetes Auto-Scaler Controller,"Custom Kubernetes operator monitoring CPU/memory metrics to automatically scale pod replicas.",Advanced,Very High,Cloud Engineer
+18,AI Image Segmentation & Tagging Tool,"PyTorch computer vision API auto-captioning and segmenting uploaded user images.",Advanced,Very High,AI Engineer
+19,SQL Query Performance Profiler,"Web tool parsing PostgreSQL query execution plans and identifying missing indexes.",Intermediate,High,Data Analyst
+20,Automated E2E Test Suite Runner,"Cypress and Pytest framework testing microservices UIs with automated visual diff reporting.",Intermediate,High,Frontend Developer
+21,Serverless Event-Driven ETL Pipeline,"AWS Lambda ETL pipeline processing raw CSV uploads into PostgreSQL tables.",Intermediate,High,Cloud Engineer
+22,Real-Time Stock Market Data Pipeline,"Streaming data processing pipeline aggregating live financial tick data using WebSockets and Redis.",Advanced,Very High,Backend Developer
+23,Sentiment Analysis Social Media Dashboard,"Streamlit data app scraping text metrics and analyzing sentiment with Hugging Face models.",Intermediate,High,Data Analyst
+24,Distributed Caching & In-Memory Store,"Lightweight Redis clone built from scratch supporting string keys, TTL, and persistence.",Advanced,Very High,Backend Developer
+25,AI Resume & Skill Matcher API,"FastAPI backend comparing resume text against job descriptions using TF-IDF and Cosine Similarity.",Intermediate,High,AI Engineer
+26,Dockerized CI/CD Runner Environment,"Self-hosted GitHub Actions runner environment configured with Docker-in-Docker isolation.",Intermediate,High,DevOps Engineer
+27,Smart Home IoT Telemetry Hub,"MQTT telemetry consumer processing sensor readings and plotting timeseries metrics.",Intermediate,High,Python Developer
+28,Enterprise Design System & Component Library,"Accessible React component library published as an npm package with Storybook documentation.",Intermediate,High,Frontend Developer
+29,Graph Database Fraud Detection Engine,"Machine learning pipeline identifying anomalous transaction loops using network graphs.",Advanced,Very High,Data Scientist
+30,Full-Stack E-Learning Portal,"LMS application featuring course video streaming, quiz assessments, and progress tracking.",Advanced,Very High,Full Stack Developer

@@ -1,0 +1,109 @@
+project_id,skill_name,role_in_project
+1,React,Frontend UI
+1,TypeScript,Frontend UI
+1,FastAPI,Backend API
+1,PostgreSQL,Database Storage
+1,Docker,Containerization
+2,Node.js,Microservice Runtime
+2,Express.js,API Gateway
+2,PostgreSQL,Primary Database
+2,Redis,Session Cache
+2,Docker,Containerization
+3,React,Dashboard UI
+3,TypeScript,Type Safety
+3,Tailwind CSS,Styling
+3,REST API,Data Fetching
+4,Python,Core Language
+4,FastAPI,API Endpoint
+4,Scikit-learn,ML Model
+4,PyTorch,Deep Learning Model
+4,Docker,Deployment
+5,Docker,Container Engine
+5,Kubernetes,Orchestration
+5,Linux,System Kernel
+5,CI/CD,Pipeline Automation
+6,Python,Core Language
+6,FastAPI,API Layer
+6,LangChain,LLM Orchestration
+6,Docker,Containerization
+7,React,Frontend UI
+7,JavaScript,Client Logic
+7,Node.js,WebSocket Server
+7,PostgreSQL,Database Storage
+8,Python,Data Processing
+8,Pandas,Dataframes
+8,NumPy,Numerical Computations
+8,SQL,Data Querying
+9,AWS,Cloud Provider
+9,Terraform,Infrastructure as Code
+9,Docker,Containerization
+9,CI/CD,Deployment Workflow
+10,React,Interactive Preview UI
+10,Tailwind CSS,Styling
+10,HTML,DOM Structure
+10,CSS,Styling Rules
+11,Go,High-Performance Server
+11,Redis,In-Memory Buffer
+11,Docker,Containerization
+12,Python,Static Code Analysis
+12,Pytest,Test Runner Framework
+12,Git,Repository Inspection
+13,Python,Data Science Pipeline
+13,Pandas,Feature Engineering
+13,Scikit-learn,Model Training
+13,SQL,Database Queries
+14,Python,API Server
+14,FastAPI,OAuth2 Endpoints
+14,PostgreSQL,User Database
+14,Redis,Token Blacklist
+15,Docker,Service Container
+15,FastAPI,Python Benchmark
+15,Express.js,Node Benchmark
+15,Spring Boot,Java Benchmark
+16,React,UI Components
+16,Next.js,SSR & SSG Framework
+16,GraphQL,Data Querying
+16,PostgreSQL,Content Store
+17,Kubernetes,Pod Management
+17,Go,Operator SDK
+17,Docker,Runtime Container
+18,Python,Image Processing Engine
+18,PyTorch,Vision Transformer Model
+18,FastAPI,API Server
+19,SQL,Query Parsing
+19,PostgreSQL,Execution Plan Analyzer
+19,Python,Log Parser
+20,JavaScript,Test Scripts
+20,Cypress,E2E Testing
+20,Pytest,API Test Runner
+21,AWS,Serverless Lambda & S3
+21,Python,ETL Processor
+21,PostgreSQL,Data Warehouse
+22,Go,Data Ingestion Engine
+22,Redis,PubSub Stream
+22,Node.js,WebSocket Gateway
+23,Python,Data Dashboard
+23,Pandas,Metric Aggregation
+23,Scikit-learn,Sentiment Classifier
+24,C++,Memory Management
+24,Linux,POSIX Sockets
+24,Docker,Testing Container
+25,Python,Matching Algorithm
+25,FastAPI,API Endpoint
+25,Scikit-learn,TF-IDF Vectorizer
+26,Docker,Container Isolation
+26,CI/CD,Runner Automation
+26,Linux,Host OS
+27,Python,Telemetry Ingestion
+27,FastAPI,Backend API
+27,PostgreSQL,Timeseries Database
+28,React,UI Component Library
+28,TypeScript,Type System
+28,Tailwind CSS,Theme Tokens
+29,Python,Graph Analytics
+29,Scikit-learn,Anomaly Detection
+29,SQL,Transaction Log Querying
+30,React,Video Player UI
+30,Node.js,Streaming Backend
+30,PostgreSQL,LMS Database
+30,Docker,App Deployment
